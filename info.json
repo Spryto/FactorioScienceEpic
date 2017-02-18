@@ -1,0 +1,11 @@
+{
+  "name": "ScienceEpic",
+  "version": "0.1.0",
+  "factorio_version": "0.14",
+  "title": "Science Epic",
+  "author": "bdean20",
+  "contact": "https://forums.factorio.com/memberlist.php?mode=viewprofile&u=34474",
+  "homepage": "https://github.com/bdean20/FactorioScienceEpic/", 
+  "dependencies": ["?Yi_Tech_Tree >= 0.0.0"],
+  "description": "Increase science costs to make technological choices more important."
+}
